@@ -16,6 +16,6 @@ For Build Boocord:
 
 For Build Boocord PTB:
 
-nativefier --name 'Boocord PTB' 'ptb.discord.com/app' --disable-gpu --tray -u "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 uacq"
+`nativefier --name 'Boocord PTB' 'ptb.discord.com/app' --disable-gpu --tray -u "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 uacq"`
 
 Build done!
