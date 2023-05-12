@@ -7,5 +7,7 @@ Trusted by antiviruses & sandboxes.
 
 ### Wanna build yourself?
 `npm install nativefier`
+
 `nativefier --name 'Boocord' 'discord.com/app' --disable-gpu --tray -u "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 uacq"`
+
 Build done!
