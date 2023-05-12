@@ -1,5 +1,5 @@
 # What is boocord?
-Boocord is a discord client built with nativefier
+Boocord is a discord client built with nativefier.
 
 ## Is it safe?
 Trusted by antiviruses & sandboxes.
