@@ -6,8 +6,16 @@ Trusted by antiviruses & sandboxes.
 ![image](https://user-images.githubusercontent.com/85783692/223534002-f8ef79f6-9391-4b43-9ada-9e18f3b749f0.png)
 
 ### Wanna build yourself?
+
+First you need install nativefier.
 `npm install nativefier`
 
+For Build Boocord:
+
 `nativefier --name 'Boocord' 'discord.com/app' --disable-gpu --tray -u "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 uacq"`
+
+For Build Boocord PTB:
+
+nativefier --name 'Boocord PTB' 'ptb.discord.com/app' --disable-gpu --tray -u "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 uacq"
 
 Build done!
