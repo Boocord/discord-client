@@ -8,6 +8,7 @@ Trusted by antiviruses & sandboxes.
 ### Wanna build yourself?
 
 First you need install nativefier.
+
 `npm install nativefier`
 
 For Build Boocord:
