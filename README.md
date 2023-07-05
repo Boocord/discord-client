@@ -5,9 +5,9 @@ A Lightweight Discord Client Built with Nativefier
 
 # Statistics
 These tests were done on:
-Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz
-8GB DDR3 RAM
-INTEL SSDSA2BW160G3L SSD DISK
+- Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz
+- 8GB DDR3 RAM
+- INTEL SSDSA2BW160G3L SSD DISK
 
 |  |Boocord|Discord|
 |--|--|--|
