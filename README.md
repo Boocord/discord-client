@@ -1,7 +1,8 @@
 # Boocord
 A Lightweight Discord Client Built with Nativefier
 
-![image](https://github.com/Boocord/discord-client/assets/85783692/fc6d0490-49b0-4705-9fee-12c31b6f6239)
+![image](https://github.com/Boocord/discord-client/assets/85783692/10efaf24-177b-4e62-b86b-30fa0b9813db)
+
 
 # Statistics
 These tests were done on:
