@@ -6,16 +6,16 @@ A Lightweight Discord Client Built with Nativefier
 
 # Statistics
 These tests were done on:
-- Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz
-- 8GB DDR3 RAM
-- INTEL SSDSA2BW160G3L SSD DISK
+- AMD Ryzen 7 7840HS 3,80 GHz
+- 16GB DDR5 RAM
+- SK Hynix PC801 HFS001TEJ9X10N SSD
 
 |  |Boocord|Discord|
 |--|--|--|
-|Ram usage:|32MB|324MB|
-|CPU usage:|%0|%26.5|
-|App size:|145MB|387MB|
-|Installer size:|60MB|91MB|
+|Ram usage:|30MB|579MB|
+|CPU usage:|%0|%2.5|
+|App size:|145MB|474MB|
+|Installer size:|66.7MB|107.1MB|
 
 # Does this go against the T.o.S.?
 In technicality, as this is still a build of the [discord.com](https://discord.com) website, it does not violate the T.o.S. since it is not a custom client but rather a different runtime or browser. If we assume that electron is just a one page web browser that is extremely minimal and that no changes are being made to the website, this is not against the t.o.s. 
