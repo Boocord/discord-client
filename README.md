@@ -14,8 +14,8 @@ These tests were done on:
 |--|--|--|
 |Ram usage:|30MB|579MB|
 |CPU usage:|%0|%2.5|
-|App size:|145MB|474MB|
-|Installer size:|66.7MB|107.1MB|
+|App size:|231MB|474MB|
+|Installer size:|68.7MB|107.1MB|
 
 # Does this go against the T.o.S.?
 In technicality, as this is still a build of the [discord.com](https://discord.com) website, it does not violate the T.o.S. since it is not a custom client but rather a different runtime or browser. If we assume that electron is just a one page web browser that is extremely minimal and that no changes are being made to the website, this is not against the t.o.s. 
